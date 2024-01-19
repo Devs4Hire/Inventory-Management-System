@@ -1,0 +1,5 @@
+transaction_id,product_name,quantity,storage_name
+1,Product1,20,Storage1
+2,Product2,30,Storage2
+3,Product1,10,Storage1
+4,Product3,15,Storage2
